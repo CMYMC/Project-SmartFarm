@@ -1,5 +1,4 @@
 
-https://github.com/user-attachments/assets/a3574cfe-58f0-4231-80f7-36f6c1d89934
 # Smart Farm
 
 ## 1. 개요
