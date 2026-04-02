@@ -15,7 +15,8 @@ STM32, FreeRTOS를 기반으로 온습도 및 수위 데이터를 실시간 모�
 * **Monitoring:** I2C LCD를 통한 데이터 시각화 및 RGB LED/Buzzer를 통한 직관적인 상태 알림
 
 ###1. 흐름도
-<img width="1024" height="396" alt="flowchart" src="https://github.com/user-attachments/assets/ed5cef04-e7c5-46bd-802d-2e35ea1e5b30" />
+![flowchart](https://github.com/user-attachments/assets/53d71f76-f520-4581-82e5-edf029063fcb)
+
 
 
 ## 3. 기능 설명
