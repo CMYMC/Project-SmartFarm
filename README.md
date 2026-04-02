@@ -14,7 +14,7 @@ STM32, FreeRTOS를 기반으로 온습도 및 수위 데이터를 실시간 모�
 * **Actuator:** 온도에 따른 스텝모터(선풍기) 속도 제어, 수위에 따른 서보모터(물 펌프) 구동 
 * **Monitoring:** I2C LCD를 통한 데이터 시각화 및 RGB LED/Buzzer를 통한 직관적인 상태 알림
 
-###1. 흐름도
+### 1. 흐름도 
 ![flowchart](https://github.com/user-attachments/assets/53d71f76-f520-4581-82e5-edf029063fcb)
 
 
