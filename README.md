@@ -12,7 +12,11 @@ STM32, FreeRTOS를 기반으로 온습도 및 수위 데이터를 실시간 모�
 * **Main Controller (STM32):** FreeRTOS 기반으로 센서 데이터 수집 및 액추에이터 제어 태스크 스케줄링
 * **Sensor:** 온습도 센서(DHT11)와 물 수위 센서(ADC)를 통한 실시간 환경 데이터 수집 
 * **Actuator:** 온도에 따른 스텝모터(선풍기) 속도 제어, 수위에 따른 서보모터(물 펌프) 구동 
-* **Monitoring:** I2C LCD를 통한 데이터 시각화 및 RGB LED/Buzzer를 통한 직관적인 상태 알림 
+* **Monitoring:** I2C LCD를 통한 데이터 시각화 및 RGB LED/Buzzer를 통한 직관적인 상태 알림
+
+###1. 흐름도
+<img width="1024" height="396" alt="flowchart" src="https://github.com/user-attachments/assets/ed5cef04-e7c5-46bd-802d-2e35ea1e5b30" />
+
 
 ## 3. 기능 설명
 ### 1. 온습도 모니터링 및 자동 제어
